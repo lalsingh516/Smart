@@ -1,0 +1,6 @@
+{
+  "name": "SmartVeganPrep",
+  "description": "SmartVeganPrep is a vegan meal-prep platform that helps people prepare healthy plant-based meals for the week. Discover recipes, weekly meal plans, dynamic shopping lists, and informative vegan health blogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
